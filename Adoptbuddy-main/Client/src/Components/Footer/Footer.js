@@ -14,14 +14,14 @@ const Footer = (props) => {
       <div className="below-footer">
         <p>
           You can reach me at{" "}
-          <a className="mail-links" href="mailto:ketanpathade7@gmail.com">
-            ketanpathade7@gmail.com
+          <a className="mail-links" href="mailto:tushardeshmukhh96k@gmail.com">
+            tushardeshmukhh96k@gmail.com
           </a>
         </p>
         <p>
           <a
             className="contact-links"
-            href="https://www.linkedin.com/in/ketan-pathade/"
+            href="https://www.linkedin.com/in/tushar-deshmukh96/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -30,7 +30,7 @@ const Footer = (props) => {
           &nbsp;&nbsp;|&nbsp;&nbsp;
           <a
             className="contact-links"
-            href="https://github.com/Ketan-cmd"
+            href="https://github.com/tushar-cmd-10"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -39,7 +39,7 @@ const Footer = (props) => {
           &nbsp;&nbsp;|&nbsp;&nbsp;
           <a
             className="contact-links"
-            href="https://www.instagram.com/_ketan_302_/"
+            href="https://www.instagram.com/tusharndeshmukh?igsh=MXB6eDNsdXZrYnJueg=="
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -55,7 +55,7 @@ const Footer = (props) => {
             <i className="fa fa-whatsapp"></i> WhatsApp
           </a>
         </p>
-        <p>&copy; 2025 Ketan Pathade</p>
+        <p>&copy; 2025 Tushar Deshmukh</p>
       </div>
     </footer>
   );

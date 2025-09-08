@@ -7,28 +7,28 @@ const Contact = () => {
       <div className="contactUs-left-para">
         <h3>Let's get in touch</h3>
         <i class="fa fa-envelope"></i>
-        <a class="mail-links" href="mailto:ketanpathade7@gmail.com">
-          ketanpathade7@gmail.com
+        <a class="mail-links" href="mailto:tushardeshmukhh96k@gmail.com">
+          tushardeshmukhh96k@gmail.com
         </a>
 
         <i class="fa fa-linkedin"></i>
-        <a class="mail-links" href="https://www.linkedin.com/in/ketan-pathade/">
-          User Name: Ketan-Pathade
+        <a class="mail-links" href="https://www.linkedin.com/in/tushar-deshmukh96/">
+          User Name: Tushar Deshmukh
         </a>
 
         <i class="fa fa-github"></i>
-        <a class="mail-links" href="https://github.com/Ketan-cmd">
-          Ketan-cmd
+        <a class="mail-links" href="https://github.com/tushar-cmd-10">
+          tushar-cmd-10
         </a>
 
         <i class="fa fa-instagram"></i>
-        <a class="mail-links" href="https://www.instagram.com/_ketan_302_">
-          @_ketan_302_
+        <a class="mail-links" href="https://www.instagram.com/tusharndeshmukh?igsh=MXB6eDNsdXZrYnJueg==">
+          @tusharndeshmukh
         </a>
 
         <i class="fa fa-phone"></i>
-        <a class="mail-links" href="tel:+919404304871">
-          +91 9404304871
+        <a class="mail-links" href="tel:+917058209269">
+          +91 7058209269
         </a>
       </div>
       <div className="contactUs-pic">
