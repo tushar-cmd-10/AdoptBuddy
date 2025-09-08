@@ -34,7 +34,7 @@ Kindly be aware that this project is optimized for laptop screens and is not res
 ## Installation
 Follow these steps to set up the project locally:
 
-1. Clone the repository: `git clone https://github.com/Ketan-cmd/Adoptbuddy-A-Pet-Adoption-System-MERN-Stack-Portfolio-with-Admin-Panel.git`
+1. Clone the repository: `git clone https://github.com/tushar-cmd-10/Adoptbuddy-A-Pet-Adoption-System-MERN-Stack-Portfolio-with-Admin-Panel.git`
 2. Install dependencies: `npm install`
 3. Create a `.env` file in server with `mongooseURL` variable set to your MongoDB connection URL in the format `mongooseURL=mongodb://username:password@host:port/database_name`.
 4. Run the server: `nodemon server` runs the server using nodemon, a tool that enhances the development experience by automatically restarting the server on file changes.
@@ -53,5 +53,5 @@ We welcome contributions to improve Adoptbuddy! To contribute, follow these step
 
 ## Contact Information
 For questions, please contact 
-- [GitHub](https://github.com/Ketan-cmd)
-- [LinkedIn](https://www.linkedin.com/in/ketan-pathade/)
+- [GitHub](https://github.com/tushar-cmd-10/))
+- [LinkedIn](https://www.linkedin.com/in/tushar-deshmukh96/))
